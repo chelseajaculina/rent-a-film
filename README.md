@@ -27,5 +27,5 @@
 # DVD Entity Relationship (ER) Diagram Model 
 - A high-level data model used to define the data elements and relationship for a specified system
 - A simple and easy way to view the design of the data 
-- ![DVD Entity Relationship (ER) Diagram] (https://github.com/chelseajaculina/rent-a-film/blob/master/dvd-rental-sample-database-diagram.png)
+- ![DVD Entity Relationship (ER) Diagram](https://github.com/chelseajaculina/rent-a-film/blob/master/dvd-rental-sample-database-diagram.png)
 
