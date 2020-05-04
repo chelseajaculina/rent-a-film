@@ -1,6 +1,5 @@
-# Rent A Film 
-A 15 table DVD rental company SQL database 
-- Represents the business processof a DVD rental store
+# Rent A Film - A DVD rental company SQL database 
+- Represents the business process of a DVD rental store
 - Includes: 
   - 15 tables 
   - 1 trigger
@@ -24,3 +23,8 @@ A 15 table DVD rental company SQL database
 - address – stores address data for staff and customers
 - city – stores the city names.
 - country – stores the country names.
+
+#DVD Entity Relationship Model 
+- A high-level data model used to define the data elements and relationship for a specified system
+- A simple and easy way to view the design of the data 
+
