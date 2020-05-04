@@ -48,8 +48,8 @@ A repository that represents the business process of a DVD rental store using Po
 
 ## Approach
 - Understood the the ERM of this database (Schema)
-- Worked on examples before answering questions
-- Developed the fundamentals of the syntax and how to write SQL queries in PostgreSQL using pgAdmin 4.
+- Developed the fundamentals of the syntax and how to write SQL queries in PostgreSQL using pgAdmin 4
+- Worked on numerous examples where it asked specific details of a film before tackling questions
 
 ## Findings 
 
