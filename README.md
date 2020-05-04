@@ -1,6 +1,6 @@
 # Rent A Film - A DVD rental company SQL database 
 
-A repository that represents the business process of a DVD rental store using PostgreSQL.
+A repository that represents the business process of a DVD rental store using PostgreSQL and pgAdmin 4.
 
 - Includes: 
   - 15 tables 
@@ -49,7 +49,7 @@ A repository that represents the business process of a DVD rental store using Po
 ## Approach
 - Understood the the ERM of this database (Schema)
 - Worked on examples before answering questions
-- Developed the fundamentals of the syntax and how to write SQL queries in PostgreSQL
+- Developed the fundamentals of the syntax and how to write SQL queries in PostgreSQL using pgAdmin 4.
 
 ## Findings 
 
